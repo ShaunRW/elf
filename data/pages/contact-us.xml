@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 15 Feb 2018 04:47:13 +0100</pubDate><title><![CDATA[Contact Us]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[contact-us]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Contact Us]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[0]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;column small-12 medium-8 large-6 small-centered&quot; id=&quot;contact-form-container&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;medium-12 columns&quot; id=&quot;form-title&quot;&gt;
+				&lt;h3&gt;Contact Form&lt;/h3&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;form action=&quot;/theme/elf/ajax/sendContactForm.php&quot; id=&quot;contact-form&quot; method=&quot;post&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Name &lt;span class=&quot;validation-error&quot; id=&quot;Name-Error&quot;&gt;&lt;/span&gt; &lt;input id=&quot;name&quot; name=&quot;name&quot; placeholder=&quot;Name&quot; type=&quot;text&quot; /&gt; &lt;/label&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Email Address &lt;span class=&quot;validation-error&quot; id=&quot;Email-Error&quot;&gt;&lt;/span&gt; &lt;input id=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;example@example.com&quot; type=&quot;text&quot; /&gt; &lt;/label&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Your Phone Number &lt;span class=&quot;validation-error&quot; id=&quot;Phone-Error&quot;&gt;&lt;/span&gt; &lt;input id=&quot;phone&quot; maxlength=&quot;10&quot; name=&quot;phone&quot; placeholder=&quot;0400000000&quot; type=&quot;number&quot; /&gt; &lt;/label&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Message &lt;span class=&quot;validation-error&quot; id=&quot;Message-Error&quot;&gt;&lt;/span&gt;&lt;textarea id=&quot;message&quot; name=&quot;message&quot; placeholder=&quot;None&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt; &lt;/label&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;medium-12 columns&quot; id=&quot;form-buttons&quot;&gt;&lt;button class=&quot;button&quot; id=&quot;form-submit&quot; type=&quot;submit&quot;&gt;Send&lt;/button&gt;&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;/form&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;reveal small&quot; data-close-on-click=&quot;false&quot; data-reveal=&quot;&quot; id=&quot;Contact-Form-Loading&quot;&gt;
+	&lt;div id=&quot;Contact-Form-Loading-Animation&quot;&gt;
+		&lt;h3&gt;Sending Message&lt;/h3&gt;
+		&lt;img alt=&quot;Sending in progress&quot; src=&quot;/theme/themeSO/images/ajax-loader-bar.gif&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;reveal small&quot; data-reveal=&quot;&quot; id=&quot;Contact-Form-Success-Container&quot;&gt;
+	&lt;div id=&quot;Contact-Form-Success&quot;&gt;
+		&lt;h3&gt;Thank you for contacting us!&lt;/h3&gt;
+
+		&lt;p class=&quot;lead&quot;&gt;Your message has been sent successfully.&lt;/p&gt;
+
+		&lt;p&gt;We will get back to you within 24hrs. If you entered a phone number, we may give you a call within business hours.&lt;/p&gt;
+		&lt;button aria-label=&quot;Close modal&quot; class=&quot;close-button&quot; data-close=&quot;&quot; type=&quot;button&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;/button&gt;&lt;/div&gt;
+&lt;/div&gt;
+]]></content></item>
