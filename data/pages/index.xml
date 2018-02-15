@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 15 Feb 2018 05:53:59 +0100</pubDate><title><![CDATA[Elite Landscaping &amp; Fencing]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[index]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Home]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[1]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;p&gt;Website under-construction.&lt;/p&gt;
-]]></content></item>
+<item><pubDate>Thu, 15 Feb 2018 06:58:14 +0100</pubDate><title><![CDATA[Elite Landscaping &amp; Fencing]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[index]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Home]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[1]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;grid-container fluid no-padding&quot;&gt;
+	&lt;div class=&quot;grid-x&quot;&gt;
+		&lt;div class=&quot;cell&quot;&gt;&lt;img alt=&quot;Fence&quot; class=&quot;orbit-image&quot; src=&quot;data/uploads/banners/WoodenFenceStraight.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;grid-container&quot;&gt;
+	&lt;div class=&quot;grid-x&quot;&gt;
+		&lt;div class=&quot;cell why-choose-us&quot;&gt;
+			&lt;h2&gt;WHY CHOOSE  ELITE LANDSCAPING &amp;amp; FENCING?&lt;/h2&gt;
+			&lt;ul class=&quot;no-bullet&quot;&gt;
+				&lt;li&gt;&lt;span class=&quot;fa fa-thumbs-o-up fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;We provide an efficient &amp;amp; friendly service&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;span class=&quot;fa fa-calendar fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;Over ? years industry knowledge &amp;amp; experience&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;span class=&quot;fa fa-dollar fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;Our prices beat other leading contractors&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;span class=&quot;fa fa-check-square-o fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;We use high quality material at competitive prices&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;span class=&quot;fa fa-users fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;Locally owned and family operated business&lt;/span&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;]]></content></item>
