@@ -14,7 +14,7 @@
 		<div class="grid-x">
 			<div class="cell text-right contact-bar">
 				<span class="phone-contact"><span class="fa fa-phone"></span> 0400 123 456</span> or
-				<span class="email-contact"><span class="fa fa-envelope"></span> Email</span>
+				<span class="email-contact"><a href="<?php get_site_url(); ?>/contact-us"><span class="fa fa-envelope"></span> Email</a></span>
 			</div>
 		</div>
 	</div>
@@ -30,7 +30,7 @@
 
 			</div>
 			<div class="small-3 align-self-middle text-right header-quote-btn-container">
-				<div class="quote-button">Request a<br/> Free Quote!</div>
+				<a href="<?php get_site_url(); ?>/contact-us"><div class="quote-button">Request a<br/> Free Quote!</div></a>
 			</div>
 		</div>
 	</div>
