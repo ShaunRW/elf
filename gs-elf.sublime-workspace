@@ -1,0 +1,1059 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Loadi",
+				"LoadingSpinnerDefaults"
+			],
+			[
+				"import",
+				"import_into_xero"
+			],
+			[
+				"trade",
+				"tradedoor_csv_to_dictionary"
+			],
+			[
+				"down",
+				"download_tradedoor_csv"
+			],
+			[
+				"cred",
+				"credentials_file"
+			],
+			[
+				"cr",
+				"created"
+			],
+			[
+				"el",
+				"elapsed_since_created"
+			],
+			[
+				"invoi",
+				"invoice_number_list"
+			],
+			[
+				"invoc",
+				"invoice_date"
+			],
+			[
+				"tra",
+				"tradedoor_invoices"
+			],
+			[
+				"trad",
+				"tradedoor_invoice"
+			],
+			[
+				"purc",
+				"purchase_unit_price"
+			],
+			[
+				"pur",
+				"purchase_unit_price"
+			],
+			[
+				"xero",
+				"xero_instance"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"s",
+				"sales_account_code"
+			],
+			[
+				"sale",
+				"sales_unit_price"
+			],
+			[
+				"pr",
+				"product_code"
+			],
+			[
+				"_xe",
+				"_xero_import_new"
+			],
+			[
+				"_xer",
+				"_xero_import_update"
+			],
+			[
+				"xe",
+				"xero_export"
+			],
+			[
+				"xer",
+				"xero_item"
+			],
+			[
+				"my_",
+				"my_xero"
+			],
+			[
+				"xero_",
+				"xero_item"
+			],
+			[
+				"in",
+				"invoice_number"
+			],
+			[
+				"invoice",
+				"invoice_number"
+			],
+			[
+				"invo",
+				"invoice_number"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"item",
+				"item_code"
+			],
+			[
+				"Xer",
+				"XeroWebApp"
+			],
+			[
+				"new",
+				"new_value"
+			],
+			[
+				"dic",
+				"dict_to_xero_dict"
+			],
+			[
+				"_",
+				"_xero_to_attributes"
+			],
+			[
+				"t",
+				"TaxType"
+			],
+			[
+				"PurchaseD",
+				"PurchaseDetails"
+			],
+			[
+				"Purch",
+				"PurchaseDescription"
+			],
+			[
+				"Pur",
+				"PurchaseDescription"
+			],
+			[
+				"cre",
+				"credentials"
+			],
+			[
+				"Trade",
+				"TradeDoor"
+			],
+			[
+				"list",
+				"list_to_json"
+			],
+			[
+				"match",
+				"match_value"
+			],
+			[
+				"match_",
+				"match_index"
+			],
+			[
+				"value",
+				"value_list"
+			],
+			[
+				"json_",
+				"json_profile"
+			],
+			[
+				"Load",
+				"LoadingSpinnerDefaults"
+			],
+			[
+				"item_",
+				"item_csv_fields"
+			],
+			[
+				"csv",
+				"csv_record_values"
+			],
+			[
+				"fie",
+				"fields_for_line"
+			],
+			[
+				"Tradelink",
+				"TradelinkProduct"
+			],
+			[
+				"Tra",
+				"TradelinkInvoice"
+			],
+			[
+				"pro",
+				"product_fields"
+			],
+			[
+				"invoice_fi",
+				"invoice_fields"
+			],
+			[
+				"mat",
+				"match_profile"
+			],
+			[
+				"field",
+				"field_profiles"
+			],
+			[
+				"inv",
+				"invoice_fields"
+			],
+			[
+				"invoice_f",
+				"invoice_fields"
+			],
+			[
+				"Lia",
+				"LoadingAnimationStateError"
+			],
+			[
+				"LoadingAn",
+				"LoadingAnimationStateError"
+			],
+			[
+				"Loading",
+				"LoadingDotsDefaults"
+			],
+			[
+				"comp",
+				"complete_message"
+			],
+			[
+				"com",
+				"complete_message"
+			],
+			[
+				"L",
+				"LinkContainingPartialText"
+			],
+			[
+				"loading",
+				"LoadingSpinner"
+			],
+			[
+				"star",
+				"starting_page"
+			],
+			[
+				"Tr",
+				"TradeDoor"
+			],
+			[
+				"open",
+				"open_doors"
+			],
+			[
+				"File",
+				"FileSystemObject"
+			],
+			[
+				"tw",
+				"twilio_number"
+			],
+			[
+				"mess",
+				"message_text"
+			],
+			[
+				"A",
+				"AuthToken"
+			],
+			[
+				"Lo",
+				"LoadingSpinner"
+			],
+			[
+				"Loadin",
+				"loadingdots"
+			],
+			[
+				"se",
+				"separator"
+			],
+			[
+				"char",
+				"char_count"
+			],
+			[
+				"m",
+				"MyGovLogin"
+			],
+			[
+				"me",
+				"method_wrapper"
+			],
+			[
+				"con",
+				"confirm_page_title"
+			],
+			[
+				"cn",
+				"confirm_page"
+			],
+			[
+				"MyG",
+				"MyGovLogin"
+			],
+			[
+				"sele",
+				"selenium_web_driver"
+			],
+			[
+				"sel",
+				"selenium_web_driver"
+			],
+			[
+				"selen",
+				"selenium_web_driver"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"fin",
+				"find_element_by_css_selector"
+			],
+			[
+				"Not",
+				"NoSuchElementException"
+			],
+			[
+				"by",
+				"by_element_name"
+			],
+			[
+				"find",
+				"find_element_by_name"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"co",
+				"confirm_page"
+			],
+			[
+				"No",
+				"NoSuchElementException"
+			],
+			[
+				"rep",
+				"report_day_str"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"report",
+				"report_day"
+			],
+			[
+				"day_",
+				"day_to_report"
+			],
+			[
+				"day",
+				"day_of_payment"
+			],
+			[
+				"datetim",
+				"datetime_object"
+			],
+			[
+				"click_",
+				"click_link_by_css_selector"
+			],
+			[
+				"secret",
+				"secret_answer"
+			],
+			[
+				"str",
+				"str_to_contain"
+			],
+			[
+				"close",
+				"close_app"
+			],
+			[
+				"My",
+				"MyGovLogin"
+			],
+			[
+				"login",
+				"login_url"
+			],
+			[
+				"sub",
+				"submit_form"
+			],
+			[
+				"selc",
+				"select_form"
+			],
+			[
+				"select",
+				"select_form"
+			],
+			[
+				"get",
+				"get_current_page"
+			],
+			[
+				"submit",
+				"submit_selected"
+			],
+			[
+				"S",
+				"School"
+			],
+			[
+				"State",
+				"StatefulBrowser"
+			],
+			[
+				"pars",
+				"parse_login_page"
+			],
+			[
+				"p",
+				"print_person"
+			],
+			[
+				"print",
+				"print_person"
+			],
+			[
+				"f",
+				"first_name"
+			],
+			[
+				"pate",
+				"paste_from_bank"
+			],
+			[
+				"paste",
+				"paste_from_bank"
+			],
+			[
+				"sto",
+				"stopEventLoop"
+			],
+			[
+				"App",
+				"AppHelper"
+			],
+			[
+				"NS",
+				"NSApplication"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"mou",
+				"mouse_y"
+			],
+			[
+				"mo",
+				"mouse_x"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"response",
+				"response_list"
+			],
+			[
+				"respons",
+				"response_list"
+			],
+			[
+				"re",
+				"response_list"
+			],
+			[
+				"_d",
+				"_dialog_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "theme/elf/default/header.inc.php",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "theme/elf/default/head.inc.php",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "theme/elf/template.php",
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					""
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"Run the latest AGK build"
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"AGK Compile and Broadcast"
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"AGK Compile Run Broadcast"
+				]
+			],
+			[
+				"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+				"Run the latest AGK build"
+			]
+		],
+		[
+			[
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					""
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"Run the latest AGK build"
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"AGK Compile and Broadcast"
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"AGK Compile Run Broadcast"
+				],
+				[
+					"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+					"AGK Compile and Run"
+				]
+			],
+			[
+				"Packages/AGKPackage/AGKPackage/AGK Build.sublime-build",
+				"AGK Compile and Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"buil",
+				"Build With: AGK Build - AGK Compile Run Broadcast"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/js"
+	],
+	"file_history":
+	[
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/elf/views/include_css.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/elf/views/include_js.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/elf/views/header/top_contact_bar.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/elf/views/header/main_header.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/default/footer.inc.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/default/dropdown_navigation.inc.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/functions.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/template.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/ajax/sendContactForm.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/theme/elf/js/script.js",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/SunraysiaOutdoors/data/pages/firearms.xml",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xeroapp/xeroapp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/README.md",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/tradedoor/tradedoorcsv.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/tradedoor/tradedoor.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xeroapp/invoice.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xeroapp/product.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xeroapp/pages.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xeroapp/webapp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/.gitignore",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/tradedoor/tradedoorpages.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/addInvoice.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/webapp/webapp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/configurables.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xeroapp/contacts.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/contacts.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/webapp/page.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/test/sp2/something.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/test/sp1/script.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/test/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/pushbullet/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xero/xeroapp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/xero/contacts.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/loadinganim.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/tradedoor/csv2json.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/tradedoor.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/tradedoorpages.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/invoice.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TradelinkXeroImporter/play.py",
+		"/Users/shaunwilesmith/Downloads/elf.wilesmith.com.au",
+		"/private/var/folders/27/_dlbrzv17xlbh64z4h22pv6h0000gn/T/6e839e27-ecfe-4050-b4d6-823a457396f5/var/www/html/elf/application/ClassAutoLoader.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/.htaccess",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/PKFencing/.htaccess",
+		"/private/var/folders/27/_dlbrzv17xlbh64z4h22pv6h0000gn/T/108b64c2-7e8a-41a3-b2a2-95f661493eed/var/www/html/elf/application/ClassAutoLoader.php",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/mygov.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/craft/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/files/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/files/filesys.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/files/ispalindrome.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/mygovpages.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/webapp/page.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/webapp/webapp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/loadinganim.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/reddit.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/setting up raspberry pi.txt",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/webapp/elementselector.py",
+		"/Users/shaunwilesmith/Downloads/reddit.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/loadingdots.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/untitled folder/mygov.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/sms/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/auth.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/untitled folder/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/webapp/__init__.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/test.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/webapp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/mygov2.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/main2.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/temp.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/scrape/main-ms.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/app/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/FamilyTree/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/FamilyTree/Person.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/Patterns/flyweight.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/Patterns/command.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/Patterns/observer.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/lilworld/tile.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/lilworld/world.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/lilworld/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/lilworld/tile",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/lilworld/world.pu",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/implementations.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/singleton.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/vehicle.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/clipboard.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/keylistener.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/vehicletype.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/gui_auto/person.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/game/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/AGK Projects/Robots/RobotComponent.agc",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/game/screen.py",
+		"/Users/shaunwilesmith/Dropbox/Development/AGK Projects/Robots/RobotComponentLabel.agc",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/game/screen",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/pyglatin.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/dialog.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/main.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/gameobject.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/inventory.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/verb.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/command.py",
+		"/Users/shaunwilesmith/Dropbox/Development/PythonProjects/TextAdventure/item.py",
+		"/Users/shaunwilesmith/Documents/CSharp/redditBot/MyFrontPageBot.py",
+		"/Users/shaunwilesmith/Documents/CSharp/redditBot/main.py",
+		"/Users/shaunwilesmith/Documents/CSharp/redditBot/asdf.py",
+		"/Users/shaunwilesmith/Documents/CSharp/redditBot/bot.py",
+		"/Users/shaunwilesmith/Documents/CSharp/Calculator/TextInput.cs",
+		"/Users/shaunwilesmith/Documents/CSharp/Calculator/Program.cs",
+		"/Users/shaunwilesmith/Documents/CSharp/pyCalculator/ProductPricing.py",
+		"/Users/shaunwilesmith/Documents/CSharp/pyCalculator/main.py",
+		"/Users/shaunwilesmith/Documents/CSharp/pyCalculator/TextInput.py",
+		"/Users/shaunwilesmith/Documents/CSharp/Calculator/ProductPricing.cs",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/SingleBanner.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/controllers/SingleBanner.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/models/SingleBanner.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/css/main.css",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/application/ClassAutoLoader.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/pages/home.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/pages/about.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/header/main_header.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/header/top_contact_bar.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/models/Page.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/homepage/banner.php",
+		"/Users/shaunwilesmith/Documents/AGK Projects/linx.jpg",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/content/home.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/views/homepage/why_choose_us.php",
+		"/Users/shaunwilesmith/Dropbox/Development/MAMP/htdocs/mockup.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "theme/elf/default/header.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "theme/elf/default/head.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "theme/elf/template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "gs-elf.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"a",
+				"Blocks3D.app/Contents/MacOS/AppGameKit Player"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
