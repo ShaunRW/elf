@@ -8,4 +8,4 @@
 *
 *****************************************************/ ?>
 
-<?php get_page_content(); ?>
+<div class="content-wrapper"><?php get_page_content(); ?></div>
