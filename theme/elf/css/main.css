@@ -46,7 +46,8 @@
 .header-navigation-container .dropdown.menu>li.is-dropdown-submenu-parent>a {
 	color: black;
 }
-.header-navigation-container > ul > li > a:hover,
+.header-navigation-container > ul.dropdown > li > a:hover,
+.header-navigation-container > ul.dropdown > li.is-active > a,
 .header-navigation-container > ul.dropdown > li.is-dropdown-submenu-parent.is-active > a {
 	border-bottom: 2px solid red;
 	color: red;

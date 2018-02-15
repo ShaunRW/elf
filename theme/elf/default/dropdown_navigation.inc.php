@@ -20,14 +20,14 @@
 	
 				echo "<ul class='menu'>";
 				foreach($children as $sublink){
-					echo ($sublink['slug']==return_page_slug()) ? "<li class='active'>" : "<li>";
+					echo ($sublink['slug']==return_page_slug()) ? "<li class='is-active'>" : "<li>";
 					echo "<a href='".$sublink['url']."'>".$sublink['menu_text']."</a></li>";
 				}
 				echo "</ul></li>";
 			}
 			else
 			{
-				echo ($link['slug']==return_page_slug()) ? "<li class='active'>" : "<li>";
+				echo ($link['slug']==return_page_slug()) ? "<li class='is-active'>" : "<li>";
 				echo "<a href='".$link['url']."'>".$link['menu_text']."</a></li>";
 			}
 		} 
