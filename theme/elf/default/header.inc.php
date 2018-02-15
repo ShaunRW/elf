@@ -25,20 +25,9 @@
 		<div class="grid-x">
 			<div class="small-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="http://via.placeholder.com/256x64?text=Logo"></a></div>
 			<div class="small-6 align-self-middle header-navigation-container">
-				<ul class="dropdown menu" data-dropdown-menu>
-					<li><a href="#">Home</a></li>
-					<li><a href="#">About</a></li>
-					<li>
-						<a href="#">Fencing</a>
-						<ul class="menu">
-							<li><a href="#">Treated Pine Fencing</a></li>
-							<li><a href="#">COLORBOND Fencing</a></li>
-							<li><a href="#">Chain Wire Fencing</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Landscaping</a></li>
-					<li><a href="#">Contact US</a></li>
-				</ul>
+
+				<?php require("dropdown_navigation.inc.php"); ?>
+
 			</div>
 			<div class="small-3 align-self-middle text-right header-quote-btn-container">
 				<div class="quote-button">Request a<br/> Free Quote!</div>

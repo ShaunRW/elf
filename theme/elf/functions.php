@@ -10,6 +10,7 @@
 
 function get_navigation_children($parent_slug = ""){
 	$menu_data = menu_data();
+	$children = null;
 	foreach($menu_data as $page){
 		if($page['menu_status']=='Y' && $page['parent_slug']==$parent_slug){
 			$children[] = $page;
