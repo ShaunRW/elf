@@ -6,6 +6,7 @@ admin/
 backups/
 data/cache/
 data/other/
+data/pages/autosave/
 data/thumbs/
 data/users/
 data/uploads/
