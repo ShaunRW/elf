@@ -23,13 +23,13 @@
 <div class="fluid header-outer-container">
 	<div class="grid-container header-main-inner-container">
 		<div class="grid-x">
-			<div class="small-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="http://via.placeholder.com/256x64?text=Logo"></a></div>
-			<div class="small-6 align-self-middle header-navigation-container">
+			<div class="small-12 large-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="http://via.placeholder.com/256x64?text=Logo"></a></div>
+			<div class="small-12 large-7 align-self-middle header-navigation-container">
 
 				<?php require("dropdown_navigation.inc.php"); ?>
 
 			</div>
-			<div class="small-3 align-self-middle text-right header-quote-btn-container">
+			<div class="small-2 align-self-middle text-right header-quote-btn-container hide-for-small-only hide-for-medium-only">
 				<a href="<?php get_site_url(); ?>/contact-us"><div class="quote-button">Request a<br/> Free Quote!</div></a>
 			</div>
 		</div>

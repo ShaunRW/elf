@@ -8,9 +8,6 @@
 }
 
 
-
-
-
 /* Header
    ============================= */
 .top-contact-bar-outer-container .contact-bar {
@@ -23,45 +20,61 @@
 .top-contact-bar-outer-container {
 	border-bottom: 3px solid #EEE;
 }
-/*.header-main-inner-container {
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-}*/
 .header-outer-container {
 	border-bottom: 2px solid #EEE;
 }
 
-/* main header navigation */
-.header-navigation-container a {
+.header-logo-container {
+	text-align: center;
+}
+
+
+/* Header Navigation
+   ============================= */
+.header-navigation-container .top-bar {
+	background-color: white;
+	padding: 0px;
+}
+.header-navigation-container ul {
+	background-color: white;
+}
+.header-navigation-container li a {
 	text-transform: uppercase;
 	font-weight: bold;
 	color: black;
 }
-.header-navigation-container > ul > li > a {
+
+/* only way i could get the height to play nice with both dropdown and accordion. */
+.header-navigation-container ul > li > a {
 	height: 6em;
 	padding-top: 20.75%;
 	line-height: 4.6em;
+}
+.header-navigation-container ul:not(.dropdown) > li > a {
+	height: auto;
+	padding: .7rem 1rem;
+	line-height: 1em;
+}
 
-}
-.header-navigation-container .dropdown.menu>li.is-dropdown-submenu-parent>a {
-	color: black;
-}
-.header-navigation-container > ul.dropdown > li > a:hover,
-.header-navigation-container > ul.dropdown > li.is-active > a,
-.header-navigation-container > ul.dropdown > li.is-dropdown-submenu-parent.is-active > a {
+/* Active and hover states */
+.header-navigation-container ul.menu > li > a:hover,
+.header-navigation-container ul.menu > li.is-active > a,
+.header-navigation-container ul.menu > li.has-submenu.is-active > a {
 	border-bottom: 2px solid red;
 	color: red;
+	background-color: white;
 }
-.header-navigation-container ul > li > a:hover {
-	color: red;
-}
+
 /* change color of the down arrow. */
-.header-navigation-container > ul.dropdown > li.is-dropdown-submenu-parent.is-active > a::after {
+.header-navigation-container ul.menu> li.has-submenu.is-active > a::after {
 	border-color: red transparent transparent;
 }
-.header-navigation-container .dropdown.menu>li.is-dropdown-submenu-parent>a::after {
+.header-navigation-container ul.menu li.has-submenu>a::after {
 	border-color: black transparent transparent;
 }
+
+
+
 
 /* main header quote button */
 .header-quote-btn-container .quote-button {
