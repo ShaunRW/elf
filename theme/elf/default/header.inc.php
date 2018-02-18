@@ -9,7 +9,7 @@
 *****************************************************/
 ?>
 
-<div class="fluid top-contact-bar-outer-container">
+<div class="fluid top-contact-bar-outer-container hide-for-small-only hide-for-medium-only">
 	<div class="grid-container top-contact-bar-container">
 		<div class="grid-x">
 			<div class="cell text-right contact-bar">
@@ -23,7 +23,7 @@
 <div class="fluid header-outer-container">
 	<div class="grid-container header-main-inner-container">
 		<div class="grid-x">
-			<div class="small-12 large-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="http://via.placeholder.com/256x64?text=Logo"></a></div>
+			<div class="small-6 large-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="http://via.placeholder.com/256x64?text=Logo"></a></div>
 			<div class="small-12 large-7 align-self-middle header-navigation-container">
 
 				<?php require("dropdown_navigation.inc.php"); ?>

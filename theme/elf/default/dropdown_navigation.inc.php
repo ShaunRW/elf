@@ -9,8 +9,9 @@
 *****************************************************/ ?>
 
 <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="large">
-  <button class="menu-icon" type="button" data-toggle="main-menu"></button>
-  <div class="title-bar-title">Menu</div>
+	<button class="" type="button" data-toggle="main-menu">
+		<div class="title-bar-title"><span class="fa fa-bars"></span> MENU</div>
+	</button>
 </div>
 
 <div class="top-bar" id="main-menu">
