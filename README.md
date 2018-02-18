@@ -16,22 +16,23 @@
 #### Footer ####
 * Make Footer responsive. 
 * Add more content to footer.
+* Add large full with above main footer: "[logo] Call us today to arange a ~fast quote~ on ~0400 000 000~"
 
 
-### Homepage ###
+#### Homepage ####
 * Add content inside the banner. Image + Name of business + Call to Actions?
 * Make Why choose us section responsive.
 * Add image to the right of why choos us section on large screens. Would look good if it is a person.
 * Add testimonials section. Not sure if this should be in the footer yet.
 
 
-### Contact Us Page ###
+#### Contact Us Page ####
 * Add more contact options other than just the form.
 * Once form is tested on live server using my own address, switch the to address to whatever the client wants it to be.
 * Fix Sending message animation image not showing.
 
 
-### Other Pages ###
+#### Other Pages ####
 * Create About Us content.
 * Create 'Fencing' overview page.
 * Create 'Fencing' sub page content.
