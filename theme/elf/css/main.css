@@ -136,6 +136,58 @@ div.content-wrapper {
 	flex: 1;
 }
 
+/* Page title */
+.content-title-bar-container {
+	background-color: #0D5292;
+    background: -webkit-gradient(radial, center center, 0, center center, 460, from(#0D9DDC), to(#0D5292));
+    background: -webkit-radial-gradient(circle, #0D9DDC, #0D5292);
+    background: -moz-radial-gradient(circle, #0D9DDC, #0D5292);
+    background: -ms-radial-gradient(circle, #0D9DDC, #0D5292);
+}
+
+.content-title-bar-container .content-title-bar {
+	padding: 1rem;
+}
+
+.content-title-bar-container .content-title-bar h1{
+	font-family: Arial;
+	font-size: 2.5rem;
+	margin-bottom: .1rem;
+}
+
+.content-title-bar-container .content-title-bar div{
+	font-family: Arial;
+	font-size: .75rem;
+}
+
+.content-title-bar-container .content-title-bar .content-title {
+	color: white;
+}
+
+/* Shadowed box - mainly used for content-title-bar.*/
+.shadow-container{
+	position: relative;
+	width: 100%;
+}
+
+.shadow-container .shadow {
+	width: 100%;
+	position: absolute;
+	left: 0;
+}
+
+.shadow-container .shadow.top {
+	background: url(/theme/elf/images/shadow-top.png) top center no-repeat;
+	height: 60%;
+	top: 0;
+}
+
+.shadow-container .shadow.bottom {
+	background:url(/theme/elf/images/shadow-bottom.png) center bottom repeat-x;
+	height:30%;
+	bottom: 0;
+}
+
 
 
 

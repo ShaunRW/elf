@@ -8,4 +8,21 @@
 *
 *****************************************************/ ?>
 
+<?php if (return_page_slug()!="index") { ?>
+	<div class="fluid content-title-bar-container shadow-container">
+		<div class="grid-container">
+			<div class="grid-x">
+				<div class="cell content-title-bar">
+					<div class="shadow top"></div>
+					<div class="content-title">
+						<h1><?php get_page_clean_title(); ?></h1>
+						<div>Bread > Crumbs > here</div>
+					</div>
+					<div class="shadow bottom"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+<?php } ?>
+
 <div class="content-wrapper"><?php get_page_content(); ?></div>
