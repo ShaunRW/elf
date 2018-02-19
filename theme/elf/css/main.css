@@ -164,6 +164,15 @@ div.content-wrapper {
 	color: white;
 }
 
+.breadcrumbs .home{
+	color: white;
+}
+
+.breadcrumbs .current-page {
+	font-weight: bold;
+}
+
+
 /* Shadowed box - mainly used for content-title-bar.*/
 .shadow-container{
 	position: relative;
