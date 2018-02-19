@@ -24,9 +24,11 @@
 	border-bottom: 2px solid #EEE;
 }
 
+
 .header-logo-container {
 	text-align: center;
 }
+
 
 
 /* Header Navigation
@@ -37,6 +39,7 @@
 }
 .header-navigation-container ul {
 	background-color: white;
+	width: 100%;
 }
 .header-navigation-container li a {
 	text-transform: uppercase;
@@ -73,7 +76,34 @@
 	border-color: black transparent transparent;
 }
 
+/* Stylize Menu Bar */
+.header-navigation-container .title-bar {
+	padding: 0;
+}
+.header-navigation-container .title-bar button {
+	width:100%;
+	text-align: left;
+	font-size: 1.5em;
+	padding: 0.5em;
+}
+.header-navigation-container .title-bar button .title-bar-title {
+	color: white;
+}
 
+@media only screen and (max-width: 1024px) {
+
+	/* change header vertical ordering */
+	.--header-main-inner-container .grid-x {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+
+	/* make menu bar full width */
+	.grid-container.header-main-inner-container {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
 
 
 /* main header quote button */
