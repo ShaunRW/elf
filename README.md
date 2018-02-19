@@ -34,7 +34,7 @@
 
 
 #### Other Pages ####
-* Create Heading banner with bread crumbs for all pages except the homepage.
+* Add functional Bread crumbs.
 * Create About Us content.
 * Create 'Fencing' overview page.
 * Create 'Fencing' sub page content.
