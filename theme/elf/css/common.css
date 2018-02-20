@@ -1,11 +1,13 @@
 
-
 /* Utility
    ============================= */
 .grid-container.fluid.no-padding { 
 	padding-left: 0;
 	padding-right: 0;
 }
+
+
+
 
 
 /* Header
@@ -28,6 +30,8 @@
 .header-logo-container {
 	text-align: center;
 }
+
+
 
 
 
@@ -106,7 +110,11 @@
 }
 
 
-/* main header quote button */
+
+
+
+/* Header Quote Button
+========================= */
 .header-quote-btn-container .quote-button {
 	background-color: red;
 	color: white;
@@ -118,7 +126,6 @@
 	width: 10rem;
 	float: right;
 }
-
 
 
 
@@ -173,7 +180,11 @@ div.content-wrapper {
 }
 
 
-/* Shadowed box - mainly used for content-title-bar.*/
+
+
+
+/* Shadowed box - mainly used for content-title-bar.
+======================================================*/
 .shadow-container{
 	position: relative;
 	width: 100%;
@@ -217,79 +228,3 @@ div.content-wrapper {
 	padding-bottom: 1.5rem;
 	color: white;
 }
-
-
-
-
-/* SingleBanner
-   ============================= */
-/* Put Single Banner Content Over Single Banner Image */
-.SingleBanner .cell{
-	position: relative;
-}
-.SingleBanner .SingleBannerOverlay{
-	position: absolute;
-	top: 0px;
-	left: 0px;
-}
-
-
-
-
-
-/* Why Choose Us View
-   ============================= */
-.why-choose-us {
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-}
-.why-choose-us h2 {
-	color: red;
-	font-weight: bold;
-}
-.why-choose-us li {
-	font-size: 1.5rem;
-	font-weight: bold;
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-	border-bottom: 1px solid #EEE;	
-}
-.why-choose-us li span.fa {
-	color: red;
-	vertical-align: middle;
-}
-.why-choose-us li span.text {
-	font-family: arial;
-	text-transform: uppercase;
-	vertical-align: middle;
-	padding-left: 1rem;
-}
-
-
-
-
-
-/* Contact us form
-   ============================= */
-#contact-form-container {
-	background-color: #eee;
-	border-radius: 10px;
-	margin: 2em auto;
-	padding: 1em;
-}
-
-#contact-form-container .validation-error {
-	color: red;
-	float: right;
-	font-weight: bold;
-}
-
-#contact-form-container #form-buttons {
-	text-align: right;
-}
-
-#Contact-Form-Loading-Animation {
-	text-align: center;
-}
-
-

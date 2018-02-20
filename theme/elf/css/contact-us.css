@@ -1,0 +1,23 @@
+
+/* Contact us form
+   ============================= */
+#contact-form-container {
+	background-color: #eee;
+	border-radius: 10px;
+	margin: 2em auto;
+	padding: 1em;
+}
+
+#contact-form-container .validation-error {
+	color: red;
+	float: right;
+	font-weight: bold;
+}
+
+#contact-form-container #form-buttons {
+	text-align: right;
+}
+
+#Contact-Form-Loading-Animation {
+	text-align: center;
+}

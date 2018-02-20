@@ -1,0 +1,44 @@
+
+/* SingleBanner
+   ============================= */
+/* Put Single Banner Content Over Single Banner Image */
+.SingleBanner .cell{
+	position: relative;
+}
+.SingleBanner .SingleBannerOverlay{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+
+
+
+
+/* Why Choose Us View
+   ============================= */
+.why-choose-us {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.why-choose-us h2 {
+	color: red;
+	font-weight: bold;
+}
+.why-choose-us li {
+	font-size: 1.5rem;
+	font-weight: bold;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #EEE;	
+}
+.why-choose-us li span.fa {
+	color: red;
+	vertical-align: middle;
+}
+.why-choose-us li span.text {
+	font-family: arial;
+	text-transform: uppercase;
+	vertical-align: middle;
+	padding-left: 1rem;
+}

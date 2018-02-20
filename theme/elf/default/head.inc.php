@@ -20,7 +20,18 @@
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/foundation.min.css" />
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/font-awesome.min.css">
 
-<link rel="stylesheet" href="<?php get_theme_url(); ?>/css/main.css">
+<link rel="stylesheet" href="<?php get_theme_url(); ?>/css/common.css">
+
+<?php
+	/* This checks whether there is a specific css file for this page and loads it. */
+	$page_specific_css_file =  "/css/" . get_page_slug(false) . ".css";
+	if (file_exists("theme/elf/".$page_specific_css_file))
+	{
+
+		 echo '<link rel="stylesheet" href="' . get_theme_url(false) . $page_specific_css_file . '">';
+
+	}
+?>
 
 <script src="<?php get_theme_url(); ?>/js/vendor/jquery.js"></script>
 <script src="<?php get_theme_url(); ?>/js/vendor/what-input.js"></script>
