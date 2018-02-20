@@ -34,7 +34,7 @@
 
 
 #### Other Pages ####
-* Add functional Bread crumbs.
+* Add proper functional Bread crumbs.
 * Create About Us content.
 * Create 'Fencing' overview page.
 * Create 'Fencing' sub page content.
