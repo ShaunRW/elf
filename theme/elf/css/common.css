@@ -1,4 +1,9 @@
 
+/*
+ * Small and Up
+ * 	- no media quiery needed.
+ */
+
 /* Utility
    ============================= */
 .grid-container.fluid.no-padding { 
@@ -94,15 +99,16 @@
 	color: white;
 }
 
-@media only screen and (max-width: 1024px) {
 
+/* Unique media query. Medium and down */
+@media only screen and (max-width: 63.9375em) {
+	
 	/* change header vertical ordering */
 	.--header-main-inner-container .grid-x {
 		display: flex;
 		flex-direction: column-reverse;
 	}
-
-	/* make menu bar full width */
+	/* make nav menu bar full width */
 	.grid-container.header-main-inner-container {
 		padding-left: 0;
 		padding-right: 0;
@@ -228,3 +234,48 @@ div.content-wrapper {
 	padding-bottom: 1.5rem;
 	color: white;
 }
+
+
+
+/*
+ * Small only
+ */
+@media screen and (max-width: 39.9375em) {
+}
+
+
+
+
+
+/*
+ * Medium and up
+ */
+@media screen and (min-width: 40em) {}
+
+
+
+
+
+/*
+ * Medium only
+ */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+}
+
+
+
+
+
+/*
+ * Large and up
+ */
+@media screen and (min-width: 64em) {}
+
+
+
+
+
+/*
+ * Large only
+ */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {}
