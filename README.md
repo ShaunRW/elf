@@ -16,7 +16,8 @@
 #### Footer ####
 * Make Footer responsive. 
 * Add more content to footer.
-* Add large full with above main footer: "[logo] Call us today to arange a ~fast quote~ on ~0400 000 000~"
+* ~Add large full with above main footer: "[logo] Call us today to arange a fast quote on 0400 000 000"~
+		Make this responsive now
 
 
 #### Homepage ####

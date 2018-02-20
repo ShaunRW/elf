@@ -223,8 +223,35 @@ div.content-wrapper {
 
 
 
+/* Pre Footer Call to action
+   ============================= */
+.fast-quote-call-to-action-outer-container {
+	text-align: center;
 
-/* Footer
+	background-color: #0D5292;
+    background: -webkit-gradient(radial, center center, 0, center center, 460, from(#0D9DDC), to(#0D5292));
+    background: -webkit-radial-gradient(circle, #0D9DDC, #0D5292);
+    background: -moz-radial-gradient(circle, #0D9DDC, #0D5292);
+    background: -ms-radial-gradient(circle, #0D9DDC, #0D5292);
+}
+.fast-quote-call-to-action-outer-container .call-to-action p {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+	padding: 1em;
+	margin: 0;
+}
+.fast-quote-call-to-action-outer-container .call-to-action p em{
+	color: orange;
+	font-weight: bold;
+}
+.fast-quote-call-to-action-outer-container .call-to-action p a{
+	color: white;
+	font-weight: bold;
+}
+
+
+/* Main Footer
    ============================= */
 .footer-outer-container {
 	background-color: #4e525d;
@@ -234,6 +261,7 @@ div.content-wrapper {
 	padding-bottom: 1.5rem;
 	color: white;
 }
+
 
 
 

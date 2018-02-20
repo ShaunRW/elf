@@ -8,6 +8,15 @@
 *
 *****************************************************/
 ?>
+<div class="fluid fast-quote-call-to-action-outer-container shadow-container">
+	<div class="grid-container">
+			<div class="grid-x">
+				<div class="shadow top"></div>
+				<div class="cell call-to-action"><p>Call us today to arange a <em>fast quote</em> on <a href="tel:0400000000">0400 000 000</a></p></div>
+				<div class="shadow bottom"></div>
+			</div>
+		</div>	
+</div>
 
 <div class="fluid footer-outer-container">
 	<div class="grid-container">
