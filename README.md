@@ -21,7 +21,6 @@
 
 #### Homepage ####
 * Add content inside the banner. Image + Name of business + Call to Actions?
-* Make Why choose us section responsive.
 * Add image to the right of why choos us section on large screens. Would look good if it is a person.
 * Add testimonials section. Not sure if this should be in the footer yet.
 
