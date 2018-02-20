@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 15 Feb 2018 08:55:19 +0100</pubDate><title><![CDATA[Contact Us]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[contact-us]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Contact Us]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[5]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;grid-container&quot;&gt;
-	&lt;div class=&quot;row&quot;&gt;
-		&lt;div class=&quot;column small-12 medium-8 large-6 small-centered&quot; id=&quot;contact-form-container&quot;&gt;
-			&lt;div class=&quot;row&quot;&gt;
-				&lt;div class=&quot;medium-12 columns&quot; id=&quot;form-title&quot;&gt;
-					&lt;h3&gt;Contact Form&lt;/h3&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
+<item><pubDate>Thu, 15 Feb 2018 08:55:19 +0100</pubDate><title>Contact Us</title><titlelong/><summary/><url>contact-us</url><author>shaun</author><template>template.php</template><parent/><menu>Contact Us</menu><menuStatus>Y</menuStatus><private/><meta/><metad/><metarNoIndex>0</metarNoIndex><metarNoFollow>0</metarNoFollow><metarNoArchive>0</metarNoArchive><content>&amp;lt;div class=&amp;quot;grid-container&amp;quot;&amp;gt;
+	&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+		&amp;lt;div class=&amp;quot;column small-12 medium-8 large-6 small-centered&amp;quot; id=&amp;quot;contact-form-container&amp;quot;&amp;gt;
+			&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+				&amp;lt;div class=&amp;quot;medium-12 columns&amp;quot; id=&amp;quot;form-title&amp;quot;&amp;gt;
+					&amp;lt;h3&amp;gt;Contact Form&amp;lt;/h3&amp;gt;
+				&amp;lt;/div&amp;gt;
+			&amp;lt;/div&amp;gt;
 	
-			&lt;form action=&quot;/theme/elf/ajax/sendContactForm.php&quot; id=&quot;contact-form&quot; method=&quot;post&quot;&gt;
-			&lt;div class=&quot;row&quot;&gt;
-				&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Name &lt;span class=&quot;validation-error&quot; id=&quot;Name-Error&quot;&gt;&lt;/span&gt; &lt;input id=&quot;name&quot; name=&quot;name&quot; placeholder=&quot;Name&quot; type=&quot;text&quot; /&gt; &lt;/label&gt;&lt;/div&gt;
+			&amp;lt;form action=&amp;quot;/theme/elf/ajax/sendContactForm.php&amp;quot; id=&amp;quot;contact-form&amp;quot; method=&amp;quot;post&amp;quot;&amp;gt;
+			&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+				&amp;lt;div class=&amp;quot;medium-12 columns&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Name &amp;lt;span class=&amp;quot;validation-error&amp;quot; id=&amp;quot;Name-Error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;input id=&amp;quot;name&amp;quot; name=&amp;quot;name&amp;quot; placeholder=&amp;quot;Name&amp;quot; type=&amp;quot;text&amp;quot; /&amp;gt; &amp;lt;/label&amp;gt;&amp;lt;/div&amp;gt;
 	
-				&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Email Address &lt;span class=&quot;validation-error&quot; id=&quot;Email-Error&quot;&gt;&lt;/span&gt; &lt;input id=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;example@example.com&quot; type=&quot;text&quot; /&gt; &lt;/label&gt;&lt;/div&gt;
+				&amp;lt;div class=&amp;quot;medium-12 columns&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Email Address &amp;lt;span class=&amp;quot;validation-error&amp;quot; id=&amp;quot;Email-Error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;input id=&amp;quot;email&amp;quot; name=&amp;quot;email&amp;quot; placeholder=&amp;quot;example@example.com&amp;quot; type=&amp;quot;text&amp;quot; /&amp;gt; &amp;lt;/label&amp;gt;&amp;lt;/div&amp;gt;
 	
-				&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Your Phone Number &lt;span class=&quot;validation-error&quot; id=&quot;Phone-Error&quot;&gt;&lt;/span&gt; &lt;input id=&quot;phone&quot; maxlength=&quot;10&quot; name=&quot;phone&quot; placeholder=&quot;0400000000&quot; type=&quot;number&quot; /&gt; &lt;/label&gt;&lt;/div&gt;
+				&amp;lt;div class=&amp;quot;medium-12 columns&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Your Phone Number &amp;lt;span class=&amp;quot;validation-error&amp;quot; id=&amp;quot;Phone-Error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;input id=&amp;quot;phone&amp;quot; maxlength=&amp;quot;10&amp;quot; name=&amp;quot;phone&amp;quot; placeholder=&amp;quot;0400000000&amp;quot; type=&amp;quot;number&amp;quot; /&amp;gt; &amp;lt;/label&amp;gt;&amp;lt;/div&amp;gt;
 	
-				&lt;div class=&quot;medium-12 columns&quot;&gt;&lt;label&gt;Message &lt;span class=&quot;validation-error&quot; id=&quot;Message-Error&quot;&gt;&lt;/span&gt;&lt;textarea id=&quot;message&quot; name=&quot;message&quot; placeholder=&quot;None&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt; &lt;/label&gt;&lt;/div&gt;
-			&lt;/div&gt;
+				&amp;lt;div class=&amp;quot;medium-12 columns&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Message &amp;lt;span class=&amp;quot;validation-error&amp;quot; id=&amp;quot;Message-Error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;textarea id=&amp;quot;message&amp;quot; name=&amp;quot;message&amp;quot; placeholder=&amp;quot;None&amp;quot; rows=&amp;quot;6&amp;quot;&amp;gt;&amp;lt;/textarea&amp;gt; &amp;lt;/label&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;/div&amp;gt;
 	
-			&lt;div class=&quot;row&quot;&gt;
-				&lt;div class=&quot;medium-12 columns&quot; id=&quot;form-buttons&quot;&gt;&lt;button class=&quot;button&quot; id=&quot;form-submit&quot; type=&quot;submit&quot;&gt;Send&lt;/button&gt;&lt;/div&gt;
-			&lt;/div&gt;
-			&lt;/form&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
+			&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+				&amp;lt;div class=&amp;quot;medium-12 columns&amp;quot; id=&amp;quot;form-buttons&amp;quot;&amp;gt;&amp;lt;button class=&amp;quot;button&amp;quot; id=&amp;quot;form-submit&amp;quot; type=&amp;quot;submit&amp;quot;&amp;gt;Send&amp;lt;/button&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;/div&amp;gt;
+			&amp;lt;/form&amp;gt;
+		&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
 
-&lt;div class=&quot;reveal small&quot; data-close-on-click=&quot;false&quot; data-reveal=&quot;&quot; id=&quot;Contact-Form-Loading&quot;&gt;
-	&lt;div id=&quot;Contact-Form-Loading-Animation&quot;&gt;
-		&lt;h3&gt;Sending Message&lt;/h3&gt;
-		&lt;img alt=&quot;Sending in progress&quot; src=&quot;/theme/themeSO/images/ajax-loader-bar.gif&quot; /&gt;&lt;/div&gt;
-&lt;/div&gt;
+&amp;lt;div class=&amp;quot;reveal small&amp;quot; data-close-on-click=&amp;quot;false&amp;quot; data-reveal=&amp;quot;&amp;quot; id=&amp;quot;Contact-Form-Loading&amp;quot;&amp;gt;
+	&amp;lt;div id=&amp;quot;Contact-Form-Loading-Animation&amp;quot;&amp;gt;
+		&amp;lt;h3&amp;gt;Sending Message&amp;lt;/h3&amp;gt;
+		&amp;lt;img alt=&amp;quot;Sending in progress&amp;quot; src=&amp;quot;/theme/themeSO/images/ajax-loader-bar.gif&amp;quot; /&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
 
-&lt;div class=&quot;reveal small&quot; data-reveal=&quot;&quot; id=&quot;Contact-Form-Success-Container&quot;&gt;
-	&lt;div id=&quot;Contact-Form-Success&quot;&gt;
-		&lt;h3&gt;Thank you for contacting us!&lt;/h3&gt;
+&amp;lt;div class=&amp;quot;reveal small&amp;quot; data-reveal=&amp;quot;&amp;quot; id=&amp;quot;Contact-Form-Success-Container&amp;quot;&amp;gt;
+	&amp;lt;div id=&amp;quot;Contact-Form-Success&amp;quot;&amp;gt;
+		&amp;lt;h3&amp;gt;Thank you for contacting us!&amp;lt;/h3&amp;gt;
 
-		&lt;p class=&quot;lead&quot;&gt;Your message has been sent successfully.&lt;/p&gt;
+		&amp;lt;p class=&amp;quot;lead&amp;quot;&amp;gt;Your message has been sent successfully.&amp;lt;/p&amp;gt;
 
-		&lt;p&gt;We will get back to you within 24hrs. If you entered a phone number, we may give you a call within business hours.&lt;/p&gt;
-		&lt;button aria-label=&quot;Close modal&quot; class=&quot;close-button&quot; data-close=&quot;&quot; type=&quot;button&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;/button&gt;&lt;/div&gt;
-&lt;/div&gt;
-]]></content></item>
+		&amp;lt;p&amp;gt;We will get back to you within 24hrs. If you entered a phone number, we may give you a call within business hours.&amp;lt;/p&amp;gt;
+		&amp;lt;button aria-label=&amp;quot;Close modal&amp;quot; class=&amp;quot;close-button&amp;quot; data-close=&amp;quot;&amp;quot; type=&amp;quot;button&amp;quot;&amp;gt;&amp;lt;span aria-hidden=&amp;quot;true&amp;quot;&amp;gt;×&amp;lt;/span&amp;gt;&amp;lt;/button&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+</content><menuOrder><![CDATA[9]]></menuOrder></item>
