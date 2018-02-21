@@ -17,54 +17,71 @@
 }
 
 
-/* Why Choose Us View
-   ============================= */
-.why-choose-us {
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-}
-.why-choose-us h2 {
-	color: red;
-	font-weight: bold;
-}
-.why-choose-us li {
-	font-weight: bold;
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-	border-bottom: 1px solid #EEE;	
-}
-.why-choose-us li span.fa {
-	color: red;
-	vertical-align: middle;
-}
-.why-choose-us li span.text {
-	font-family: arial;
-	text-transform: uppercase;
-	vertical-align: middle;
-	padding-left: 1rem;
-}
 
+
+/* Home Sections
+   ============================= */
+.home-section {
+	padding: 2em 0em;
+}
+.home-section .title {
+	text-align: center;
+}
+.home-section .title h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+}
 
 /* Fancy Separator
    ============================= */
 .separator-with-icon {
 	width: 100%;
 	position: relative;
+	text-align: center;
 }
 .separator-with-icon .line{
 	position: absolute;
 	width: 100%;
-	border-bottom:1px solid white;
-	top:50%;
+	top: 50%;
+
+	/* Border color to be overridden with border-color. */
+	border:1px solid black;
 }
 .separator-with-icon .icon{
 	font-size: 1.em;
 	border-radius: 50%;
-	background-color: white;
-	color: green;
 	padding: .5em;
 	position: relative;
 	z-index: 1;
+
+	/* background color to be overridden with same color as above border-color. */
+	background-color: black;
+	/* Color to be overriden. Usually with the same color as the section background. */
+	color: white;
+}
+
+
+
+
+
+/* Why Choose Us View
+   ============================= */
+.why-choose-us-list {
+	padding: 1rem 0rem;
+}
+.why-choose-us-list li {
+	font-weight: bold;
+	padding: 1rem 0rem;
+	border-bottom: 1px solid #EEE;	
+}
+.why-choose-us-list li span.fa {
+	color: red;
+	vertical-align: middle;
+}
+.why-choose-us-list li span.text {
+	font-family: arial;
+	text-transform: uppercase;
+	vertical-align: middle;
 }
 
 
@@ -74,17 +91,19 @@
    ============================= */
 .testimonials-container {
 	background-color: #224e16;
-	padding: 2em;
 }
 
-.testimonials-container .testimonial-title {
-	text-align: center;
+.testimonials-container .title {
 	color: white;
 }
-.testimonials-container .testimonial-title h2{
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 400;
-	color: white;
+
+/* Override seperator colors */
+.testimonials-container .title .separator-with-icon .line {
+	border-color: white;
+}
+.testimonials-container .title .separator-with-icon .icon {
+	background-color: white;
+	color: #224e16;
 }
 
 .testimonials-container .testimonial {
@@ -152,11 +171,12 @@
 
 	/* Why Choose Us View
    ============================= */
-   .why-choose-us h2 {
-   		font-size: 1rem;
-   }
-	.why-choose-us li {
-		font-size: 0.75rem;
+	.why-choose-us-list li{
+		font-size: .75em;
+		padding: .5rem 0rem;
+	}
+	.why-choose-us-list li .text {
+		padding-left: 0.5em;
 	}
 }
 
@@ -167,7 +187,18 @@
 /*
  * Medium and up
  */
-@media screen and (min-width: 40em) {}
+@media screen and (min-width: 40em) {
+
+	/* Why Choose Us View
+   ============================= */
+	.why-choose-us-list li{
+		font-size: 1em;
+		padding: 1rem 0rem;
+	}
+	.why-choose-us-list li .text {
+		padding-left: 1em;
+	}
+}
 
 
 
@@ -176,17 +207,7 @@
 /*
  * Medium only
  */
-@media screen and (min-width: 40em) and (max-width: 63.9375em) {
-
-	/* Why Choose Us View
-   ============================= */
-   .why-choose-us h2 {
-   		font-size: 1.5rem;
-   }
-	.why-choose-us li {
-		font-size: 1rem;
-	}
-}
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
 
 
 
@@ -195,17 +216,7 @@
 /*
  * Large and up
  */
-@media screen and (min-width: 64em) {
-	
-	/* Why Choose Us View
-   ============================= */
-   .why-choose-us h2 {
-   		font-size: 2rem;
-   }
-	.why-choose-us li {
-		font-size: 1.5rem;
-	}
-}
+@media screen and (min-width: 64em) {}
 
 
 
