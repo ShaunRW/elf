@@ -237,17 +237,18 @@ div.content-wrapper {
 .fast-quote-call-to-action-outer-container .call-to-action p {
 	color: white;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 2rem;
 	padding: 1em;
 	margin: 0;
 }
 .fast-quote-call-to-action-outer-container .call-to-action p em{
 	color: orange;
 	font-weight: bold;
+	white-space: nowrap;
 }
 .fast-quote-call-to-action-outer-container .call-to-action p a{
 	color: white;
 	font-weight: bold;
+	white-space: nowrap;
 }
 
 
@@ -269,6 +270,12 @@ div.content-wrapper {
  * Small only
  */
 @media screen and (max-width: 39.9375em) {
+
+	/* Pre Footer Call to action
+   ============================= */
+	.fast-quote-call-to-action-outer-container .call-to-action p {
+		font-size: 1.2rem;
+	}
 }
 
 
@@ -288,6 +295,12 @@ div.content-wrapper {
  * Medium only
  */
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
+
+	/* Pre Footer Call to action
+   ============================= */
+	.fast-quote-call-to-action-outer-container .call-to-action p {
+		font-size: 1.5rem;
+	}
 }
 
 
@@ -297,7 +310,14 @@ div.content-wrapper {
 /*
  * Large and up
  */
-@media screen and (min-width: 64em) {}
+@media screen and (min-width: 64em) {
+
+	/* Pre Footer Call to action
+   ============================= */
+	.fast-quote-call-to-action-outer-container .call-to-action p {
+		font-size: 2rem;
+	}
+}
 
 
 
