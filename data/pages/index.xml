@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Wed, 21 Feb 2018 08:21:59 +0100</pubDate><title><![CDATA[Elite Landscaping &amp; Fencing]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[index]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Home]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[1]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;grid-container fluid no-padding shadow-container&quot;&gt;
+<item><pubDate>Wed, 21 Feb 2018 11:13:20 +0100</pubDate><title><![CDATA[Elite Landscaping &amp; Fencing]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[index]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Home]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[1]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;grid-container fluid no-padding shadow-container&quot;&gt;
 	&lt;div class=&quot;grid-x&quot;&gt;
 		&lt;div class=&quot;cell&quot;&gt;
 			&lt;div class=&quot;shadow top-linear&quot;&gt;&amp;nbsp;&lt;/div&gt;
@@ -9,8 +9,8 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;home-section why-choose-us-container fluid no-padding&quot;&gt;
-
+&lt;div class=&quot;home-section why-choose-us-container fluid no-padding shadow-container&quot;&gt;
+	&lt;div class=&quot;shadow top-linear&quot;&gt;&lt;/div&gt;
 	&lt;div class=&quot;grid-container&quot;&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
 			&lt;div class=&quot;title cell small-12&quot;&gt;
@@ -20,21 +20,57 @@
 					&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
-			&lt;div class=&quot;why-choose-us-list cell small-12&quot;&gt;
-				&lt;ul class=&quot;no-bullet&quot;&gt;
-					&lt;li&gt;&lt;span class=&quot;fa fa-thumbs-o-up fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;We provide an efficient &amp;amp; friendly service&lt;/span&gt;&lt;/li&gt;
-					&lt;li&gt;&lt;span class=&quot;fa fa-calendar fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;Over ? years industry knowledge &amp;amp; experience&lt;/span&gt;&lt;/li&gt;
-					&lt;li&gt;&lt;span class=&quot;fa fa-dollar fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;Our prices beat other leading contractors&lt;/span&gt;&lt;/li&gt;
-					&lt;li&gt;&lt;span class=&quot;fa fa-check-square-o fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;We use high quality material at competitive prices&lt;/span&gt;&lt;/li&gt;
-					&lt;li&gt;&lt;span class=&quot;fa fa-users fa-2x fa-fw&quot;&gt;&lt;/span&gt; &lt;span class=&quot;text&quot;&gt;Locally owned and family operated business&lt;/span&gt;&lt;/li&gt;
-				&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;grid-container&quot;&gt;
+		&lt;div class=&quot;grid-x&quot;&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-thumbs-o-up fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;We provide an efficient &amp;amp; friendly service&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-calendar fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;Over ? years industry knowledge &amp;amp; experience&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-dollar fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;Our prices beat other leading contractors&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-leaf fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;We use high quality material at competitive prices&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-users fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;Locally owned and family operated business&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-smile-o fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;Maintain high customer satisfaction&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-check-square-o fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;We care about the finer details&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
+				&lt;div class=&quot;fa fa-id-card-o fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+				&lt;div class=&quot;text&quot;&gt;Fully qualified and licenced&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
+	&lt;div class=&quot;shadow bottom&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;home-section testimonials-container fluid no-padding shadow-container&quot;&gt;
-
+	&lt;div class=&quot;shadow top-linear&quot;&gt;&lt;/div&gt;
 	&lt;div class=&quot;grid-container&quot;&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
 			&lt;div class=&quot;title cell small-12&quot;&gt;
@@ -48,7 +84,6 @@
 	&lt;/div&gt;
 
 	&lt;div class=&quot;grid-container&quot;&gt;
-		&lt;div class=&quot;shadow top-linear&quot;&gt;&lt;/div&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
 
 			&lt;div class=&quot;testimonial cell small-12 medium-6 large-4&quot;&gt;
@@ -91,7 +126,7 @@
 			&lt;/div&gt;
 
 		&lt;/div&gt;
-		&lt;div class=&quot;shadow bottom&quot;&gt;&lt;/div&gt;
 	&lt;/div&gt;
+	&lt;div class=&quot;shadow bottom&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 ]]></content></item>

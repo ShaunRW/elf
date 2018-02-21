@@ -66,6 +66,19 @@
 
 /* Why Choose Us View
    ============================= */
+.why-choose-us-container .reason {
+	padding: 2em;
+}
+.why-choose-us-container .reason .fa {
+	color: red;
+}
+.why-choose-us-container .reason .text {
+	font-family: Arial;
+}
+
+
+
+
 .why-choose-us-list {
 	padding: 1rem 0rem;
 }
@@ -171,12 +184,17 @@
 
 	/* Why Choose Us View
    ============================= */
-	.why-choose-us-list li{
-		font-size: .75em;
-		padding: .5rem 0rem;
+	.why-choose-us-container .reason {
+		font-size: 0.3em;
+		border-bottom: 1px solid #EEE;
 	}
-	.why-choose-us-list li .text {
-		padding-left: 0.5em;
+	.why-choose-us-container .reason .fa {
+		float: left;
+		padding-top: 0.2em;
+	}
+	.why-choose-us-container .reason .text {
+		font-size: 5em;
+		padding-left: 2em;
 	}
 }
 
@@ -191,12 +209,17 @@
 
 	/* Why Choose Us View
    ============================= */
-	.why-choose-us-list li{
-		font-size: 1em;
-		padding: 1rem 0rem;
+	.why-choose-us-container .reason {
+		padding: 2em;
+		font-size: .75em;
 	}
-	.why-choose-us-list li .text {
-		padding-left: 1em;
+	.why-choose-us-container .reason .fa {
+		width: 100%;
+	}
+	.why-choose-us-container .reason .text {
+		width: 100%;
+		font-size: 1.5em;
+		text-align: center;
 	}
 }
 
@@ -216,7 +239,14 @@
 /*
  * Large and up
  */
-@media screen and (min-width: 64em) {}
+@media screen and (min-width: 64em) {
+
+	/* Why Choose Us View
+   ============================= */
+	.why-choose-us-container .reason {
+		font-size: 1em;
+	}
+}
 
 
 
