@@ -48,7 +48,7 @@
 	border:1px solid black;
 }
 .separator-with-icon .icon{
-	font-size: 1.em;
+	font-size: 1em;
 	border-radius: 50%;
 	padding: .5em;
 	position: relative;
@@ -70,7 +70,7 @@
 	padding: 2em;
 }
 .why-choose-us-container .reason .fa {
-	color: red;
+	color: #9fcb33;
 }
 .why-choose-us-container .reason .text {
 	font-family: Arial;
