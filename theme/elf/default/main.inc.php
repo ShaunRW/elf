@@ -16,7 +16,7 @@
 					<div class="shadow top"></div>
 					<div class="content-title">
 						<h1><?php get_page_clean_title(); ?></h1>
-						<div class="breadcrumbs"><a class="home" href="<?php get_site_url(); ?>">Home</a> → <span class="current-page"><?php get_page_clean_title(); ?></span></div>
+						<div class="breadcrumbs"><a class="home" href="<?php get_site_url(); ?>"><span class="fa fa-home"></span> Home</a> → <span class="current-page"><?php get_page_clean_title(); ?></span></div>
 					</div>
 					<div class="shadow bottom"></div>
 				</div>
