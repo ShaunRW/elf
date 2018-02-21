@@ -99,10 +99,10 @@
 
 /* Override seperator colors */
 .testimonials-container .title .separator-with-icon .line {
-	border-color: white;
+	border-color: #f6f6f6;
 }
 .testimonials-container .title .separator-with-icon .icon {
-	background-color: white;
+	background-color: #f6f6f6;
 	color: #224e16;
 }
 
