@@ -228,15 +228,17 @@ div.content-wrapper {
 .fast-quote-call-to-action-outer-container {
 	text-align: center;
 
-	background-color: #0D5292;
-    background: -webkit-gradient(radial, center center, 0, center center, 460, from(#0D9DDC), to(#0D5292));
-    background: -webkit-radial-gradient(circle, #0D9DDC, #0D5292);
-    background: -moz-radial-gradient(circle, #0D9DDC, #0D5292);
-    background: -ms-radial-gradient(circle, #0D9DDC, #0D5292);
+	background-color: #224e16;
+    background: -webkit-gradient(radial, center center, 0, center center, 460, from(#1a2109), to(#224e16));
+    background: -webkit-radial-gradient(circle, #1a2109, #224e16);
+    background: -moz-radial-gradient(circle, #1a2109, #224e16);
+    background: -ms-radial-gradient(circle, #1a2109, #224e16);
 }
 .fast-quote-call-to-action-outer-container .call-to-action p {
 	color: white;
 	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+	font-style: italic;
 	padding: 1em;
 	margin: 0;
 }

@@ -18,7 +18,7 @@
 
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/foundation.min.css" />
 
-<link href="https://fonts.googleapis.com/css?family=Montserrat:200i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:200i,400" rel="stylesheet">
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/common.css">
