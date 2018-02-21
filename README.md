@@ -20,8 +20,7 @@
 
 #### Homepage ####
 * Add content inside the banner. Image + Name of business + Call to Actions?
-* Add image to the right of why choos us section on large screens. Would look good if it is a person.
-* Add testimonials section. Not sure if this should be in the footer yet.
+* Make testimonials use an orbit container
 
 
 #### Contact Us Page ####
