@@ -1,4 +1,10 @@
 
+### Requires ###
+
+#### GetSimple Plugins ####
+* exec_php plugin.
+	*for this to work correctly, the line `echo $content;` in file `/admin/theme_functions.php` needs to be commented out.*
+
 ### Todo: ###
 
 #### Header ####
