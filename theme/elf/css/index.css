@@ -19,50 +19,6 @@
 
 
 
-/* Home Sections
-   ============================= */
-.home-section {
-	padding: 2em 0em;
-}
-.home-section .title {
-	text-align: center;
-}
-.home-section .title h2 {
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 400;
-}
-
-/* Fancy Separator
-   ============================= */
-.separator-with-icon {
-	width: 100%;
-	position: relative;
-	text-align: center;
-}
-.separator-with-icon .line{
-	position: absolute;
-	width: 100%;
-	top: 50%;
-
-	/* Border color to be overridden with border-color. */
-	border:1px solid black;
-}
-.separator-with-icon .icon{
-	font-size: 1em;
-	border-radius: 50%;
-	padding: .5em;
-	position: relative;
-	z-index: 1;
-
-	/* background color to be overridden with same color as above border-color. */
-	background-color: black;
-	/* Color to be overriden. Usually with the same color as the section background. */
-	color: white;
-}
-
-
-
-
 
 /* Why Choose Us View
    ============================= */
