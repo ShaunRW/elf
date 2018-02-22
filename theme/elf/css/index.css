@@ -138,12 +138,6 @@
  */
 @media screen and (max-width: 39.9375em) {
 
-	/* Home Sections
-   ============================= */
-	.home-section .title h2 {
-		font-size: 1.5rem;
-	}
-
 	/* Why Choose Us View
    ============================= */
 	.why-choose-us-container .reason {

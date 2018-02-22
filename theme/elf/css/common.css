@@ -319,6 +319,12 @@ div.content-wrapper {
  */
 @media screen and (max-width: 39.9375em) {
 
+	/* Home Sections
+   ============================= */
+	.home-section .title h2 {
+		font-size: 1.5rem;
+	}
+
 	/* Pre Footer Call to action
    ============================= */
 	.fast-quote-call-to-action-outer-container .call-to-action p {
