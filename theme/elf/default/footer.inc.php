@@ -12,7 +12,7 @@
 	<div class="grid-container">
 			<div class="grid-x">
 				<div class="shadow top"></div>
-				<div class="cell call-to-action"><p>Call us today to arange a <em>fast quote</em> on <a href="tel:0400000000">0403 575 410</a></p></div>
+				<div class="cell call-to-action"><p>Call us today to arange a <em>fast quote</em> on <a href="tel:0403575410">0403 575 410</a></p></div>
 				<div class="shadow bottom"></div>
 			</div>
 		</div>	
@@ -27,7 +27,7 @@
 				Weekends: Closed
 			</div>
 			<div class="cell large-4">
-				<b>ABN:</b> 12 111 222 333 | <b>License:</b> 123456<br/>
+				<b>ABN:</b> 18 234 893 258 | <b>QBCC License:</b> pending<br/>
 				<b>&copy;</b> Elite Fencing &amp; Landscaping <span id="copywrite-year"></span>. All Rights Reserved.
 			</div>
 		</div>
