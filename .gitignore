@@ -11,7 +11,10 @@ data/thumbs/
 data/users/
 gsconfig.php
 index.php
-plugins/
+plugins/GSJQueryMigrate.php
+plugins/GSJQueryMigrate/
+plugins/InnovationPlugin.php
+plugins/InnovationPlugin/
 readme.txt
 robots.txt
 sitemap.xml
