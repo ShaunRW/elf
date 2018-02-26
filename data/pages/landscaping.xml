@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 15 Feb 2018 09:40:38 +0100</pubDate><title>Landscaping</title><titlelong/><summary/><url>landscaping</url><author>shaun</author><template>template.php</template><parent/><menu>Landscaping</menu><menuStatus>Y</menuStatus><private/><meta/><metad/><metarNoIndex>0</metarNoIndex><metarNoFollow>0</metarNoFollow><metarNoArchive>0</metarNoArchive><content>&amp;lt;div class=&amp;quot;grid-container&amp;quot;&amp;gt;
-	&amp;lt;h1&amp;gt;Coming Soon&amp;lt;/h1&amp;gt;
-	
-	&amp;lt;p&amp;gt;This page has not been completed yet as this website is still under construction.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;</content><menuOrder><![CDATA[7]]></menuOrder></item>
+<item><pubDate>Mon, 26 Feb 2018 11:50:23 +0100</pubDate><title><![CDATA[Landscaping]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[landscaping]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Landscaping]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[7]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[
+&lt;div class=&quot;home-section services-container fluid no-padding&quot;&gt;
+
+	&lt;div class=&quot;grid-container&quot;&gt;
+		&lt;div class=&quot;grid-x&quot;&gt;
+			&lt;div class=&quot;title cell small-12&quot;&gt;
+				&lt;h2&gt;Our Landscaping Services&lt;/h2&gt;
+
+				&lt;div class=&quot;separator-with-icon&quot;&gt;
+					&lt;span class=&quot;icon fa fa-leaf&quot;&gt;&lt;/span&gt;
+					&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;grid-container&quot;&gt;
+		&lt;div class=&quot;grid-x&quot;&gt;
+
+
+			&lt;div class=&quot;small-brief cell small-12&quot;&gt;
+				&lt;p&gt;Whether you have a tiny courtyard or a large garden, there are many ways Elite Landscaping and Fencing can make the most of what you have. From laying lawns and turf, to creating beautiful bespoke flower beds and shrubberies, there’s a wealth of possibility for your outside space.&lt;/p&gt;
+				&lt;p&gt;Elite Landscaping and Fencing will create landscapes that enhance that will add value to your home and improve your lifestyle.&lt;/p&gt;
+			&lt;/div&gt;
+
+
+			&lt;div class=&quot;step cell small-12 medium-4&quot;&gt;
+				&lt;div class=&quot;service-card&quot;&gt;
+					&lt;div class=&quot;title&quot;&gt;Consultation&lt;/div&gt;
+					&lt;div class=&quot;image&quot;&gt;
+						&lt;img src=&quot;&lt;?php get_site_url(); ?&gt;/data/uploads/consultation.png&quot; alt=&quot;Consultation&quot;&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;text&quot;&gt;The initial consultation is designed to assist you to get a clearer picture of what you really want to achieve in your outdoor space. The ideas generated from this visit remain your property to incorporate in your new garden or can be the start of the next process of design.&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;step cell small-12 medium-4 separators&quot;&gt;
+				&lt;div class=&quot;service-card&quot;&gt;
+					&lt;div class=&quot;title&quot;&gt;Landscape Design&lt;/div&gt;
+					&lt;div class=&quot;image&quot;&gt;
+						&lt;img src=&quot;&lt;?php get_site_url(); ?&gt;/data/uploads/design.png&quot; alt=&quot;Landscape Design&quot;&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;text&quot;&gt;We work with you to design an outdoor space that is functional and feels great to be in. We can offer a complete package including Concept Plan, Full Detail Design drawn to scale and Planting Plans. You can use these drawings to build your own landscape, or we can build it for you.&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;step cell small-12 medium-4&quot;&gt;
+				&lt;div class=&quot;service-card&quot;&gt;
+					&lt;div class=&quot;title&quot;&gt;Construction&lt;/div&gt;
+					&lt;div class=&quot;image&quot;&gt;
+						&lt;img src=&quot;&lt;?php get_site_url(); ?&gt;/data/uploads/construction.png&quot; alt=&quot;Construction&quot;&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;text&quot;&gt;Following your approval of our quote, we then get to work to make your dream a reality.&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+&lt;/div&gt;
+]]></content></item>

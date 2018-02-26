@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "theme/elf"
+		},
+		{
+			"path": "."
 		}
 	]
 }

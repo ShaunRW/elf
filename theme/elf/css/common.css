@@ -103,16 +103,12 @@
 /* Unique media query. Medium and down */
 @media only screen and (max-width: 63.9375em) {
 	
-	/* change header vertical ordering */
-	.--header-main-inner-container .grid-x {
-		display: flex;
-		flex-direction: column-reverse;
-	}
 	/* make nav menu bar full width */
 	.grid-container.header-main-inner-container {
 		padding-left: 0;
 		padding-right: 0;
 	}
+
 }
 
 

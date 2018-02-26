@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Wed, 21 Feb 2018 11:13:20 +0100</pubDate><title><![CDATA[Elite Landscaping &amp; Fencing]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[index]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Home]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[1]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;grid-container fluid no-padding shadow-container&quot;&gt;
+<item><pubDate>Thu, 22 Feb 2018 06:04:50 +0100</pubDate><title><![CDATA[Elite Landscaping &amp; Fencing]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[index]]></url><author><![CDATA[shaun]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Home]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[1]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><metarNoIndex><![CDATA[0]]></metarNoIndex><metarNoFollow><![CDATA[0]]></metarNoFollow><metarNoArchive><![CDATA[0]]></metarNoArchive><content><![CDATA[&lt;div class=&quot;grid-container fluid no-padding shadow-container&quot;&gt;
 	&lt;div class=&quot;grid-x&quot;&gt;
 		&lt;div class=&quot;cell&quot;&gt;
-			&lt;div class=&quot;shadow top-linear&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;div class=&quot;shadow top-linear&quot;&gt;&lt;/div&gt;
 			&lt;img alt=&quot;Fence&quot; class=&quot;orbit-image&quot; src=&quot;data/uploads/banners/WoodenFenceStraight.jpg&quot; /&gt;
-			&lt;div class=&quot;shadow bottom&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;div class=&quot;shadow bottom&quot;&gt;&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;home-section why-choose-us-container fluid no-padding shadow-container&quot;&gt;
 	&lt;div class=&quot;shadow top-linear&quot;&gt;&lt;/div&gt;
+
 	&lt;div class=&quot;grid-container&quot;&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
 			&lt;div class=&quot;title cell small-12&quot;&gt;
@@ -22,55 +23,65 @@
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
+
 	&lt;div class=&quot;grid-container&quot;&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
-
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-thumbs-o-up fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;We provide an efficient &amp;amp; friendly service&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-calendar fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;Over ? years industry knowledge &amp;amp; experience&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-dollar fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;Our prices beat other leading contractors&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-leaf fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;We use high quality material at competitive prices&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-users fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;Locally owned and family operated business&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-smile-o fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;Maintain high customer satisfaction&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-check-square-o fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;We care about the finer details&lt;/div&gt;
 			&lt;/div&gt;
 
 			&lt;div class=&quot;reason cell small-12 medium-3&quot;&gt;
 				&lt;div class=&quot;fa fa-id-card-o fa-5x fa-fw&quot;&gt;&lt;/div&gt;
+
 				&lt;div class=&quot;text&quot;&gt;Fully qualified and licenced&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
+
 	&lt;div class=&quot;shadow bottom&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;home-section testimonials-container fluid no-padding shadow-container&quot;&gt;
 	&lt;div class=&quot;shadow top-linear&quot;&gt;&lt;/div&gt;
+
 	&lt;div class=&quot;grid-container&quot;&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
 			&lt;div class=&quot;title cell small-12&quot;&gt;
@@ -85,15 +96,17 @@
 
 	&lt;div class=&quot;grid-container&quot;&gt;
 		&lt;div class=&quot;grid-x&quot;&gt;
-
 			&lt;div class=&quot;testimonial cell small-12 medium-6 large-4&quot;&gt;
 				&lt;div class=&quot;testimonial-head&quot;&gt;
-					&lt;div class=&quot;picture&quot;&gt;&lt;img src=&quot;theme/elf/images/default-avatar.jpg&quot; alt=&quot;Avatar&quot;&gt;&lt;/div&gt;
+					&lt;div class=&quot;picture&quot;&gt;&lt;img alt=&quot;Avatar&quot; src=&quot;theme/elf/images/default-avatar.jpg&quot; /&gt;&lt;/div&gt;
+
 					&lt;div class=&quot;info&quot;&gt;
 						&lt;div class=&quot;name&quot;&gt;Shaun Wilesmith&lt;/div&gt;
+
 						&lt;div class=&quot;organisation&quot;&gt;GO Outdoors Mildura&lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
+
 				&lt;div class=&quot;tesimonial-text&quot;&gt;
 					&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 				&lt;/div&gt;
@@ -101,12 +114,15 @@
 
 			&lt;div class=&quot;testimonial cell small-12 medium-6 large-4&quot;&gt;
 				&lt;div class=&quot;testimonial-head&quot;&gt;
-					&lt;div class=&quot;picture&quot;&gt;&lt;img src=&quot;theme/elf/images/default-avatar.jpg&quot; alt=&quot;Avatar&quot;&gt;&lt;/div&gt;
+					&lt;div class=&quot;picture&quot;&gt;&lt;img alt=&quot;Avatar&quot; src=&quot;theme/elf/images/default-avatar.jpg&quot; /&gt;&lt;/div&gt;
+
 					&lt;div class=&quot;info&quot;&gt;
 						&lt;div class=&quot;name&quot;&gt;Shaun Wilesmith&lt;/div&gt;
+
 						&lt;div class=&quot;organisation&quot;&gt;GO Outdoors Mildura&lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
+
 				&lt;div class=&quot;tesimonial-text&quot;&gt;
 					&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 				&lt;/div&gt;
@@ -114,19 +130,22 @@
 
 			&lt;div class=&quot;testimonial cell small-12 medium-6 large-4&quot;&gt;
 				&lt;div class=&quot;testimonial-head&quot;&gt;
-					&lt;div class=&quot;picture&quot;&gt;&lt;img src=&quot;theme/elf/images/default-avatar.jpg&quot; alt=&quot;Avatar&quot;&gt;&lt;/div&gt;
+					&lt;div class=&quot;picture&quot;&gt;&lt;img alt=&quot;Avatar&quot; src=&quot;theme/elf/images/default-avatar.jpg&quot; /&gt;&lt;/div&gt;
+
 					&lt;div class=&quot;info&quot;&gt;
 						&lt;div class=&quot;name&quot;&gt;Shaun Wilesmith&lt;/div&gt;
+
 						&lt;div class=&quot;organisation&quot;&gt;GO Outdoors Mildura&lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
+
 				&lt;div class=&quot;tesimonial-text&quot;&gt;
 					&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
-
 		&lt;/div&gt;
 	&lt;/div&gt;
+
 	&lt;div class=&quot;shadow bottom&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 ]]></content></item>

@@ -25,4 +25,6 @@
 	</div>
 <?php } ?>
 
-<div class="content-wrapper"><?php get_page_content(); ?></div>
+<div class="content-wrapper">
+	<?php get_page_content(); ?>
+</div>
