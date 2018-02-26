@@ -24,7 +24,8 @@
 			<div class="cell large-3">
 				<b>Operating Hours:</b><br/>
 				Mon-Fri: 7am - 5pm<br/>
-				Weekends: Closed
+				Saturday: 7am - 1pm<br />
+				Sunday: <strong>Closed</strong>
 			</div>
 			<div class="cell large-4">
 				<b>ABN:</b> 18 234 893 258 | <b>QBCC License:</b> pending<br/>
