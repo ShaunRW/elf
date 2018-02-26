@@ -28,7 +28,7 @@
 			</div>
 			<div class="cell large-4">
 				<b>ABN:</b> 18 234 893 258 | <b>QBCC License:</b> pending<br/>
-				<b>&copy;</b> Elite Fencing &amp; Landscaping <span id="copywrite-year"></span>. All Rights Reserved.
+				<b>&copy;</b> Elite Landscaping &amp; Fencing <span id="copywrite-year"><?php echo date("Y"); ?></span>. All Rights Reserved.
 			</div>
 		</div>
 	</div>
