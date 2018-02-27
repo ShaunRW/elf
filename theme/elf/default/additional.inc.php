@@ -14,8 +14,9 @@
 <script>
 	$(document).ready(function() {
 	    $(document).foundation();
+
 	    $(".owl-carousel").owlCarousel({
-	    	navText: ["<",">"],
+	    	navText: ["<span class='fa fa-arrow-left'></span>","<span class='fa fa-arrow-right'></span>"],
 	    	responsiveClass: true,
 	    	responsive:{
 	    		0:{
@@ -32,5 +33,6 @@
 	    		}
 	    	}
 	    });
+
 	})
 </script>
