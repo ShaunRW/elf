@@ -177,6 +177,39 @@
 		font-size: 1.5em;
 		text-align: center;
 	}
+
+
+	/* Hover navigation on
+   ============================= */
+	.owl-nav {
+	  display: none;
+	}
+	.owl-carousel:hover .owl-nav {
+	  display: block;
+	  margin-top: 0;
+	}
+
+	.owl-theme .owl-nav .disabled {
+		display: none;
+	}
+
+	.owl-theme .owl-nav .owl-prev,
+	.owl-theme .owl-nav .owl-next {
+	  position: absolute;
+	  top: 50%;
+
+	  background-color: green;
+	  color: white;
+	  border-radius: 0;
+	  padding: 1em 2em;
+	}
+
+	.owl-theme .owl-nav .owl-prev {
+	  left: -2.5em;
+	}
+	.owl-theme .owl-nav .owl-next {
+	  right: -2.5em;
+	}
 }
 
 

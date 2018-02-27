@@ -18,6 +18,9 @@
 
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/foundation.min.css" />
 
+<link rel="stylesheet" href="<?php get_theme_url(); ?>/css/owl.carousel.min.css" />
+<link rel="stylesheet" href="<?php get_theme_url(); ?>/css/owl.theme.default.min.css" />
+
 <link href="https://fonts.googleapis.com/css?family=Montserrat:200i,400" rel="stylesheet">
 <link rel="stylesheet" href="<?php get_theme_url(); ?>/css/font-awesome.min.css">
 
@@ -37,6 +40,7 @@
 <script src="<?php get_theme_url(); ?>/js/vendor/jquery.js"></script>
 <script src="<?php get_theme_url(); ?>/js/vendor/what-input.js"></script>
 <script src="<?php get_theme_url(); ?>/js/vendor/foundation.js"></script>
+<script src="<?php get_theme_url(); ?>/js/vendor/owl.carousel.min.js"></script>
 <script src="<?php get_theme_url(); ?>/js/main.js"></script>
 
 <script src="<?php get_theme_url(); ?>/js/script.js"></script>

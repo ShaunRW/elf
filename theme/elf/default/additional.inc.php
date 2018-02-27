@@ -14,5 +14,23 @@
 <script>
 	$(document).ready(function() {
 	    $(document).foundation();
+	    $(".owl-carousel").owlCarousel({
+	    	navText: ["<",">"],
+	    	responsiveClass: true,
+	    	responsive:{
+	    		0:{
+	    			items: 1,
+	    			nav: false
+	    		},
+	    		640:{
+	    			items: 2,
+	    			nav: true
+	    		},
+	    		1024:{
+	    			items: 3,
+	    			nav: true
+	    		}
+	    	}
+	    });
 	})
 </script>
