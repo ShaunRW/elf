@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[Testimonials]]></title><slug>testimonials</slug><value><![CDATA[&lt;?php
+	$testimonials = get_all_testimonials();
+	foreach($testimonials as $review)
+	{ ?&gt;
+	
+	
+&lt;div class=&quot;testimonial cell small-12 medium-6 large-4&quot;&gt;
+	&lt;div class=&quot;testimonial-head&quot;&gt;
+		&lt;div class=&quot;picture&quot;&gt;
+			&lt;img alt=&quot;Avatar&quot; src=&quot;theme/elf/images/default-avatar.jpg&quot; /&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;info&quot;&gt;
+			&lt;div class=&quot;name&quot;&gt;&lt;?php echo $review-&gt;name; ?&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;organisation&quot;&gt;&lt;?php echo $review-&gt;organisation; ?&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;tesimonial-text&quot;&gt;
+		&lt;p&gt;&lt;?php echo $review-&gt;text; ?&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+	&lt;?php }
+?&gt;]]></value><disabled><![CDATA[0]]></disabled></item></channel>
