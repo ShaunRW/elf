@@ -25,7 +25,7 @@
 <div class="fluid header-outer-container">
 	<div class="grid-container header-main-inner-container">
 		<div class="grid-x">
-			<div class="small-6 large-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="http://via.placeholder.com/256x64?text=Logo"></a></div>
+			<div class="small-6 large-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="<?php get_theme_url(); ?>/images/logo-green.png"></a></div>
 			<div class="small-12 large-7 align-self-middle header-navigation-container">
 
 				<?php require("dropdown_navigation.inc.php"); ?>
