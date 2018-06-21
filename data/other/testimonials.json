@@ -12,15 +12,21 @@
 		"text": "Very friendly team and know how to get the job done using quality materials. My fence was completed last week and looks brilliant. Very satisfied and can highly recommend. Thanks again guys!"
 	},
 	{
-		"name": "Bobby Joes",
-		"organisation": "McDonalds",
+		"name": "George Walker",
+		"organisation": "Home Owner",
 		"picture": "",
-		"text": "Lorem ipsum dolor sit amore magna aliqua. Ut enim ad minim, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+		"text": "Excellent tradesman, prompt service, and great communication. I highly recommend."
 	},
 	{
-		"name": "Jeffy McJeff jeff",
-		"organisation": "The Jeff Shop",
+		"name": "Lisa Keogh",
+		"organisation": "Home Owner",
 		"picture": "",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+		"text": "We requested a quote. this business was prompt with thier reply. A convenient time was set up. They turned up on time and were very prompt getting the quote back to us."
+	},
+	{
+		"name": "Kerry Dalgleish",
+		"organisation": "Home Owner",
+		"picture": "",
+		"text": "Very professional and very approachable. Listed to what I wanted and made very constructive suggestions. Promptly met me on site and quote arrived a few days later. Good communicator."
 	}
 ]
