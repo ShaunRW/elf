@@ -26,6 +26,17 @@
 	<div class="grid-container header-main-inner-container">
 		<div class="grid-x">
 			<div class="small-6 large-3 align-self-middle header-logo-container"><a href="<?php get_site_url(); ?>"><img src="<?php get_theme_url(); ?>/images/logo-green.png"></a></div>
+			
+			<div class="small-6 align-self-middle text-right show-for-small-only header-small-contact">
+				<span class="phone-contact"><a href="tel:0403575410"><span class="fa fa-phone"></span></a></span>
+				<span class="email-contact"><a href="<?php get_site_url(); ?>/contact-us"><span class="fa fa-envelope"></span></a></span>
+			</div>
+
+			<div class="small-6 align-self-middle text-right show-for-medium-only header-medium-contact">
+				<span class="phone-contact"><a href="tel:0403575410"><span class="fa fa-phone"></span> 0403 575 410</a></span>
+				<span class="email-contact"><a href="<?php get_site_url(); ?>/contact-us"><span class="fa fa-envelope"></span> Email</a></span>
+			</div>
+
 			<div class="small-12 large-7 align-self-middle header-navigation-container">
 
 				<?php require("dropdown_navigation.inc.php"); ?>

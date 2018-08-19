@@ -18,8 +18,7 @@
 /* Header
    ============================= */
 .top-contact-bar-outer-container .contact-bar,
-.top-contact-bar-outer-container .contact-bar a
- {
+.top-contact-bar-outer-container .contact-bar a {
 	font-size: 1.5rem;
 	color:#95969e;
 }
@@ -38,6 +37,25 @@
 	text-align: center;
 }
 
+/* Header - Small Screen Stuff
+   ============================= */
+.header-small-contact span {
+	padding-right: 0.5em;
+}
+.header-small-contact a {
+	font-size: 2.5rem;
+	color:#95969e;
+}
+
+/* Header - Medium Screen Stuff
+   ============================= */
+.header-medium-contact > span {
+	padding-right: 1.0em;
+}
+.header-medium-contact a {
+	font-size: 1.75rem;
+	color:#95969e;
+}
 
 
 

@@ -9,8 +9,6 @@
 
 #### Header ####
 * Change the background color of the nav menu depending on the logo. might stay black yet.
-* Add Request a quote button beside the logo in small and medium screens.
-* Add Phone button beside login in small and medium screens.
 * Make request a quote on large screen show popup instead of new page. Maybe.
 * Fix issue on vertical menus pushing lower menu items down on mouse hover. Possibly caused by the bottom-border.
 
