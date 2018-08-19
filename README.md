@@ -24,6 +24,11 @@
 * Add content inside the banner. Image + Name of business + Call to Actions?
 
 
+#### About Us Page ####
+* Make font 1.2em.
+* Add some images to fillout the page.
+
+
 #### Contact Us Page ####
 * Add more contact options other than just the form.
 * Once form is tested on live server using my own address, switch the to address to whatever the client wants it to be.
@@ -32,7 +37,6 @@
 
 #### Other Pages ####
 * Add proper functional Bread crumbs.
-* Create About Us content.
 * Create 'Fencing' overview page.
 * Create 'Fencing' sub page content.
 
